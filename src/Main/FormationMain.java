@@ -25,11 +25,11 @@ public class FormationMain {
 				FormationList.listFormations.add(ad2);
 				FormationList.showList();
 			} else {
-				System.out.println("prix ou nb_heures incorrectes!");
+				System.out.println("prix ou nb_heures sont incorrectes ou bien les deux!");
 			}
 
 		} else
-			System.out.println("autre paramètres pas correct!");
+			System.out.println("autres paramètres ne sont pas correct!");
 
 	}
 
